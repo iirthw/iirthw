@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Coputer Vision and Computer Graphics enthusiast! ✨ And I love research.
-Super geek 🤓 
+My name is Vasyl Mykhalchuk, I am Coputer Vision and Computer Graphics enthusiast! ✨ And I love research 🤓. 
 <!--
 **iirthw/iirthw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
