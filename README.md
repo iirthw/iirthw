@@ -1,5 +1,5 @@
 ### Hi there 👋
-Yet another computer scientist 🤓 building AI-powered stuff for computer vision and graphics.
+Yet another computer scientist 🤓 trying to build ML powered stuff for computer vision and graphics.
 <!--
 **iirthw/iirthw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
